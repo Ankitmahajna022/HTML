@@ -1,0 +1,29 @@
+*
+{
+	margin:0%;
+	padding:0%
+}
+.gray
+{
+	height:100px;
+	width:100px;
+	background-color:gray;
+	float:left;
+}
+.black
+{
+	height:100px;
+	width:100px;
+	background-color:black;
+	float:left;
+}
+.one
+{
+	height:100px;
+	width:800px;
+}
+.two
+{
+	height:100px;
+	width:800px;
+}
