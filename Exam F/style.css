@@ -1,0 +1,122 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.box1
+{
+    height: 100vh;
+    width: 100%;
+    background:linear-gradient(180deg, rgba(51,51,51,1) 0%, rgba(0,0,0,1) 100%);
+}
+.box2
+{
+    height: 150px;
+    width: 100%;
+    background-color:#2b99cc;
+    position: absolute;
+    bottom: 5%;
+}
+.box3
+{
+    height: 100px;
+    width: 100%;
+    background-color:black;
+    border-bottom: 1px solid white;
+}
+.cr
+{
+    height: 700px;
+    width: 650px;
+    background-color:#F0DE36;
+    border-radius: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+.box4
+{
+    height: 500px;
+    width: 400px;
+}
+.img
+{
+    height: 500px;
+    width: 40%;
+    background-image: url('image/bus.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 70%;
+    left: 50%;
+}
+.cr p
+{
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Summer Festival';
+    src: url('SummerFestival.woff2') format('woff2'),
+        url('SummerFestival.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    position: relative;
+    top: 15%;
+}
+.cr h1
+{
+    text-align: center;
+    letter-spacing: 5px;
+    position: relative;
+    top:25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: #2b99cc;
+
+}
+.logo
+{
+    color: white;
+    position:relative ;
+    left:2% ;
+    top:30%;
+}
+.hom
+{
+    color: white;
+    position:relative ;
+    left: 81%;
+    top: 1%;
+    font-size: 23px;
+}
+.contact
+{
+    color: white;
+    position:relative ;
+    left: 86%;
+    top: -25%;
+    font-size: 23px;
+}
+.ent
+{
+    color: white;
+    position:relative ;
+    left: 92%;
+    top: -52%;
+    font-size: 23px;
+}
+.cr button
+{
+    position:relative ;
+    transform: translate(-50%,-50%);
+    top: 35%;
+    left: 50%;
+    background-color: #010d4f;
+    color: white;
+    font-size: 35px;
+    padding: 5px;
+}
+   
